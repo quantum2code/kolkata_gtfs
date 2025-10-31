@@ -1,0 +1,2 @@
+agency_id,route_id,route_short_name,route_type,route_color
+KMRC,METRO_BLUE_LINE,BLUE LINE,1,4287F5
